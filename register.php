@@ -21,8 +21,8 @@
 <form method="post" action="register.php"><br>
 	<input type="text" name="username" placeholder="| Username" required> <br>
 	<input type="text" name="login" placeholder="| Login" required> <br>
-	<input type="text" name="password" placeholder="| Password" required> <br>
-	<input type="text" name="r_password" placeholder="| Repeat password" required> <br>
+	<input type="password" name="password" placeholder="| Password" required> <br>
+	<input type="password" name="r_password" placeholder="| Repeat password" required> <br>
 	<input type="submit" name="submit" value="Register"> <br>
 	
 </form>
